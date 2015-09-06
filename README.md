@@ -16,7 +16,7 @@ Electric conversion of a steel frame road bicycle. The additional torque gained 
   * [Bottom bracket bearings](http://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369#): £18
   * [Cranks & Front Cog](http://www.ebay.co.uk/itm/Alloy-Fixie-Single-Speed-Chainset-Crank-Chainwheel-Bicycle-Fixie-Road-New-3-32-/371235012044?var=&hash=item566f54bdcc): £20
   * [Rear Cogs](http://shop.crystalyte-europe.com/home.php?cat=276): £5 each
-  * Brake cables:
+  * [Brake cables](http://www.ebay.co.uk/itm/Jagwire-Complete-Front-Rear-Brake-Gear-Cable-Set-Inner-Outer-Bike-Bicycle-/151693961517?var=&hash=item2351aa292d):
   * Mudguards:
 * Misc
   * Dielectric grease:
