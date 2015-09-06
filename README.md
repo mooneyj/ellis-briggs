@@ -3,17 +3,17 @@ Electric conversion of a steel frame road bicycle. The additional torque gained 
 
 ## Parts
 * Electric Components
-  * HubMotor: http://shop.crystalyte-europe.com/product.php?productid=16447&mode=download&file_id=74 --£290
-  * Batteries: 18s LiPo http://www.hobbyking.co.uk/hobbyking/store/uh_viewItem.asp?idProduct=26675 --£90
-  * ESC: http://shop.crystalyte-europe.com/product.php?productid=16529&cat=272&page=1 --£185
-  * Singlespeed cog: http://shop.crystalyte-europe.com/product.php?productid=16199&cat=276&page=1 --£5
-  * ebrake: http://shop.crystalyte-europe.com/product.php?productid=16189&cat=262&page=1 --£13
-  * Twistgrip throttle: http://shop.crystalyte-europe.com/product.php?productid=16308&cat=260&page=1 --£10
-  * Display -Cycle Analyst v3: http://shop.crystalyte-europe.com/product.php?productid=16574&cat=277&page=1 --£130
+  * [HubMotor](http://shop.crystalyte-europe.com/product.php?productid=16447&mode=download&file_id=74): £290
+  * 3X [6s LiPo batteries](http://www.hobbyking.co.uk/hobbyking/store/uh_viewItem.asp?idProduct=26675): £90
+  * [ESC](http://shop.crystalyte-europe.com/product.php?productid=16529&cat=272&page=1): £185
+  * [ebrake](http://shop.crystalyte-europe.com/product.php?productid=16189&cat=262&page=1): £13
+  * [Twistgrip throttle](http://shop.crystalyte-europe.com/product.php?productid=16308&cat=260&page=1): £10
+  * [Display -Cycle Analyst v3](http://shop.crystalyte-europe.com/product.php?productid=16574&cat=277&page=1): £130
 * Bike Parts
   * Headstock nuts:
   * Bottom bracket bearings:
-  * crank arms with single front cog:
+  * [Cranks & Front Cog](http://www.ebay.co.uk/itm/Alloy-Fixie-Single-Speed-Chainset-Crank-Chainwheel-Bicycle-Fixie-Road-New-3-32-/371235012044?var=&hash=item566f54bdcc): £20
+  * [Rear Cogs](http://shop.crystalyte-europe.com/home.php?cat=276): £5 each
   * Brake cables:
   * Mudguards:
 * Misc
