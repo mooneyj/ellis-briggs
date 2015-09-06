@@ -11,7 +11,7 @@ Electric conversion of a steel frame road bicycle. The additional torque gained 
   * [Display -Cycle Analyst v3](http://shop.crystalyte-europe.com/product.php?productid=16574&cat=277&page=1): £130
 * Bike Parts
   * Headstock nuts:
-  * Bottom bracket bearings:
+  * [Bottom bracket bearings](http://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369#): £18
   * [Cranks & Front Cog](http://www.ebay.co.uk/itm/Alloy-Fixie-Single-Speed-Chainset-Crank-Chainwheel-Bicycle-Fixie-Road-New-3-32-/371235012044?var=&hash=item566f54bdcc): £20
   * [Rear Cogs](http://shop.crystalyte-europe.com/home.php?cat=276): £5 each
   * Brake cables:
