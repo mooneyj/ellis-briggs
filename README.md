@@ -5,6 +5,7 @@ Electric conversion of a steel frame road bicycle. The additional torque gained 
 * Electric Components
   * [HubMotor](http://shop.crystalyte-europe.com/product.php?productid=16447&mode=download&file_id=74): £290
   * 3X [6s LiPo batteries](http://www.hobbyking.co.uk/hobbyking/store/uh_viewItem.asp?idProduct=26675): £90
+  * 8x [5s LiPo batteries (~800wh)](http://hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=26674): £210
   * [ESC](http://shop.crystalyte-europe.com/product.php?productid=16529&cat=272&page=1): £185
   * [ebrake](http://shop.crystalyte-europe.com/product.php?productid=16189&cat=262&page=1): £13
   * [Twistgrip throttle](http://shop.crystalyte-europe.com/product.php?productid=16308&cat=260&page=1): £10
